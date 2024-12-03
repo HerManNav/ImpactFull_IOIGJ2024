@@ -18,3 +18,7 @@ Instructions:
 Development Documentation:
 
 https://docs.google.com/document/d/1OCsikURl6f4cWjd9rL_NVoODgnLvYr0iG4qvP3p9JgM/edit?usp=sharing
+
+Video demo:
+
+https://www.youtube.com/watch?v=b0_Xqp8Bwvw&ab_channel=10Fingers1Elbow
