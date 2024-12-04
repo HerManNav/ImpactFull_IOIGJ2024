@@ -4,8 +4,10 @@ IOI & Epitech Game Jam 2024
 
 This project has used sources from:
 
+- Unreal Engine Manny model
+- Sketchfab - for glove models (modified using Blender)
 - Fab (UE marketplace) - for ground textures
-- Mixamo.com - for model animations
+- Mixamo.com - for model animations (idle and guard up)
 - Freesound.org - for SFXs
 - Tekken3 OST - for background music
 
